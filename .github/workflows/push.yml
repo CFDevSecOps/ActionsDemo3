@@ -1,4 +1,4 @@
-name: go-pipeline-demo
+name: go-pipeline
 on: push
 jobs:
   test:
